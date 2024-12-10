@@ -5,58 +5,58 @@ Smart Email Assistant is a web application built using Streamlit that allows use
 
 Features:
 
-Gmail Authentication: Securely authenticate with Gmail to access emails.
+    Gmail Authentication: Securely authenticate with Gmail to access emails.
 
-Fetch Emails: Retrieve and display the 10 most recent emails.
+    Fetch Emails: Retrieve and display the 10 most recent emails.
 
-Summarize Emails: Summarize email content using a pre-trained summarization model.
+    Summarize Emails: Summarize email content using a pre-trained summarization model.
 
-Generate Responses: Generate professional responses to emails using LangChain.
+    Generate Responses: Generate professional responses to emails using LangChain.
 
 
 
 Technologies Used:
 
-Python
+    Python
 
-Streamlit
+    Streamlit
 
-Google API
+    Google API
 
-Transformers (Hugging Face)
+    Transformers (Hugging Face)
 
-LangChain
+    LangChain
 
-dotenv
+    dotenv
 
-Bootstrap (for enhanced UI)
+    Bootstrap (for enhanced UI)
 
 
 
 Installation:
 
- 1) Clone the repository by using the git clone command and change directory to the project's root directory.
+     1) Clone the repository by using the git clone command and change directory to the project's root directory.
 
- 2) Create and activate a virtual environment using python -m venv venv and source venv/bin/activate (On Windows use venv\Scripts\activate).
+     2) Create and activate a virtual environment using python -m venv venv and source venv/bin/activate (On Windows use venv\Scripts\activate).
 
- 3) Install the dependencies listed in requirements.txtusing the pip install -r requirements.txtcommand.
+     3) Install the dependencies listed in requirements.txtusing the pip install -r requirements.txtcommand.
 
- 4) Set up the environment variables by creating a .env file in the root directory of the project. Add your Groq API key to the .env file as GROQ_API_KEY=your_groq_api_key.
+     4) Set up the environment variables by creating a .env file in the root directory of the project. Add your Groq API key to the .env file as GROQ_API_KEY=your_groq_api_key.
 
- 5) Set up Google API credentials: 
-    a. Go to the Google Cloud Console. 
-    b. Create a new project and enable the Gmail API. 
-    c. Create OAuth 2.0 credentials and download the credentials.jsonfile. 
-    d. Place the credentials.jsonfile in the root directory of the project.
+     5) Set up Google API credentials: 
+        a. Go to the Google Cloud Console. 
+        b. Create a new project and enable the Gmail API. 
+        c. Create OAuth 2.0 credentials and download the credentials.jsonfile. 
+        d. Place the credentials.jsonfile in the root directory of the project.
 
 
 Usage:
 
-  Run the Streamlit application using the streamlit run app.pycommand.
+    Run the Streamlit application using the streamlit run app.pycommand.
 
-  Open your web browser and go to http://localhost:8501 to access the Smart Email Assistant.
+    Open your web browser and go to http://localhost:8501 to access the Smart Email Assistant.
 
-  Authenticate with Gmail by following the prompts to log in to your Gmail account and grant the necessary permissions.
+    Authenticate with Gmail by following the prompts to log in to your Gmail account and grant the necessary permissions.
 
   View Emails:
 
