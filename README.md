@@ -133,3 +133,36 @@ Contributing: Contributions are welcome! Please feel free to submit a Pull Reque
 
 
 
+
+
+Home Page 
+---------
+
+![image](https://github.com/user-attachments/assets/b7050d09-e6f7-41b5-b173-67b8eaaa867d)
+
+
+
+
+Email Content
+-------------
+
+![image](https://github.com/user-attachments/assets/9bd7e559-8c3c-4f1b-b52e-13cf90f0d90a)
+
+
+
+summarization
+-------------
+
+![image](https://github.com/user-attachments/assets/72af6f9b-8700-4340-887b-556cce02e76d)
+
+
+
+Response Generation
+-------------------
+
+![image](https://github.com/user-attachments/assets/f0983e85-ab9b-4e37-a7cb-b313137dc49c)
+
+
+
+
+
